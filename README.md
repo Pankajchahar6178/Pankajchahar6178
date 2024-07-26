@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pankajchahar6178
-- 👀 I’m interested in Data Analysis and
-- Machine Learning
+- 👀 I’m interested in Data Analysis and Machine Learning
 - 🌱 I’m currently learning Python Programming
 - 📫 How to reach me pankajchahar6178@gmail.com
   ⚡Fun fact On a Dostoevsky streak
